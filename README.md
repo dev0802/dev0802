@@ -46,7 +46,7 @@ Built a voice-activated assistant using `Windows API` and `eSpeak`, capable of l
 
 - 📧 devsehgal121@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/dev-sehgal-588200269)  
-- 🗂️ [Resume](https://github.com/dev0802) *(or pin it as a repo!)*
+- 🗂️ [Resume](https://github.com/dev0802)
 
 ---
 
