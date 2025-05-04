@@ -51,3 +51,6 @@ Built a voice-activated assistant using `Windows API` and `eSpeak`, capable of l
 ---
 
 ⭐ *If you like what I do, consider following me and dropping a ⭐ on my projects!*
+
+
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev0802)](https://github.com/dev0802/github-readme-stats)
