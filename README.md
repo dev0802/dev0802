@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dev Sehgal!
 
-🎓 Computer Science Undergrad | 💡 Problem Solver | 💻 Software Developer  
+🎓 Computer Science Undergrad | 💡 Problem Solver | 💻 Aspiring Software Developer/Software Engineer  
 🔭 Passionate about C++, Python, DSA, and AI | 🧠 Voice Assistant Creator  
 
 ---
